@@ -1,0 +1,29 @@
+{
+	"name": "Theme-Cake",
+	"displayName": "Cake Theme",
+	"description": "Yummy syntax theme",
+	"version": "1.0.4",
+	"publisher": "DanielPintilei",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.svg",
+	"homepage": "https://DanielPintilei.github.io/Cake",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cake",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cake.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f2347a13-a323-4503-9dae-4d326c1814f2",
+		"publisherId": "974178dc-0d0d-493d-86a2-c60376b516ba",
+		"publisherDisplayName": "DanielPintilei"
+	}
+}
